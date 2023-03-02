@@ -1,7 +1,7 @@
-Duo Securityの設定
+F5 Distributed Cloud Bot Defenseの設定
 ================================================
 
-本章では、BIG-IP APMと連携するためのDuo Securityの設定について紹介します。
+本章では、F5 Distributed Cloud Bot Defenseの設定について紹介します。
 
 
 .. toctree::

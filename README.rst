@@ -1,10 +1,10 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive
 
-BIG-IP APM / Duo Security連携セットアップガイド 
+F5 Distributed Cloud Bot Defense Connector for AWS CloudFront セットアップガイド 
 ==============================================
 
-本ドキュメントでは、BIG-IP APMとDuo Securityを連携する設定について解説します。
+本ドキュメントでは、F5 Distributed Cloud Bot Defense Connector for AWS CloudFrontの設定方法を紹介します。
 
 はじめに
 --------------------------------
@@ -14,6 +14,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - AskF5: https://support.f5.com/csp/home
 - F5 Cloud Docs: https://clouddocs.f5.com/
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
+- F5 Distributed Cloud Tech Docs : https://docs.cloud.f5.com/docs/
 
 | なお、その他の補足コンテンツはこちらにまとめております。
 | https://f5j-tech-info.readthedocs.io/ja/latest/
@@ -22,8 +23,8 @@ F5のオフィシャルなドキュメントはこちらにございます。
 --------------------------------
 このページでは、以下のコンテンツを発信しております。
 
-- BIG-IP APM SSL-VPNの設定
-- BIG-IP APMとDuo Securityの連携設定
+- F5 Distributed Cloud Bot Defenseの設定
+- AWS CloudFrontの設定
 
 
 .. toctree::

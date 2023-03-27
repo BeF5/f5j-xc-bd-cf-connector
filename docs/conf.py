@@ -92,7 +92,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'BIG-IP APM /Duo Security セットアップガイド'
+project = u'F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront  セットアップガイド'
 copyright = u'F5ネットワークスジャパン合同会社'
 author = u'F5ネットワークスジャパン合同会社'
 

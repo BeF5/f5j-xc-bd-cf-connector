@@ -5,7 +5,7 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront  セットアップガイド"
+classname = "F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront! セットアップガイド"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
 github_url = "https://github.com/mkaneko-f5/test-BotDefense"

@@ -1,10 +1,10 @@
 .. You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive
 
-F5 Distributed Cloud Bot Defense Connector for AWS CloudFront セットアップガイド 
+F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront セットアップガイド 
 ==============================================
 
-本ドキュメントでは、F5 Distributed Cloud Bot Defense Connector for AWS CloudFrontの設定方法を紹介します。
+本ドキュメントでは、F5 Distributed Cloud Bot Defense Connector for Amazon CloudFrontの設定方法を紹介します。
 
 はじめに
 --------------------------------
@@ -24,7 +24,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 このページでは、以下のコンテンツを発信しております。
 
 - F5 Distributed Cloud Bot Defenseの設定
-- AWS CloudFrontの設定
+- Amazon CloudFrontの設定
 
 
 .. toctree::

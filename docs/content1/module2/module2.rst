@@ -7,17 +7,17 @@
 保護対象
 --------
 買い占めからの保護になるのでカート追加の操作が対象になります。
-| 本ドキュメントの例では、
-| パス: /products/add_cart* HTTP Method : POST
-| になります。
+|  本ドキュメントの例では、
+|  パス: /products/add_cart* HTTP Method : POST
+|  になります。
 
 JavaScriptの挿入パス
 --------------------
 クライアントの振る舞いや、環境情報、ネットワーク情報等を取得するJavaScriptは、カートに追加する操作を行うパスに挿入します。
 本ドキュメントの例では、
-| 商品一覧のパス: /products/list
-| 商品詳細のパス: /products/detail
-| を設定します。
+|  商品一覧のパス: /products/list
+|  商品詳細のパス: /products/detail
+|  を設定します。
 
 
 .. figure:: images/SSL-VPN.png

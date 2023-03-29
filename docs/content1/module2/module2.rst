@@ -7,9 +7,12 @@
 保護対象
 --------
 買い占めからの保護になるのでカート追加の操作が対象になります。
-| 本ドキュメントの例では、
-| パス: /products/add_cart* HTTP Method : POST
-| になります。
+
+本ドキュメントの例では、
+
+パス: /products/add_cart* HTTP Method : POST
+
+になります。
 
 JavaScriptの挿入パス
 --------------------

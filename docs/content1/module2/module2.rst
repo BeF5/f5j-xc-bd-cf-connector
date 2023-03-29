@@ -28,6 +28,10 @@ JavaScriptの挿入パス
    :scale: 40%
    :align: left
 
+   商品一覧
+
 .. figure:: images/detail.png
    :scale: 40%
    :align: left
+
+   商品詳細

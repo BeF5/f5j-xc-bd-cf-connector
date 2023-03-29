@@ -24,6 +24,10 @@ JavaScriptの挿入パス
 | を設定します。
 
 
-.. figure:: images/SSL-VPN.png
+.. figure:: images/list.png
    :scale: 40%
-   :align: center
+   :align: left
+
+.. figure:: images/detail.png
+   :scale: 40%
+   :align: right

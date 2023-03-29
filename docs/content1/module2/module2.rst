@@ -30,4 +30,4 @@ JavaScriptの挿入パス
 
 .. figure:: images/detail.png
    :scale: 40%
-   :align: center
+   :align: left

@@ -1,4 +1,4 @@
-準備中 …　1
+Serverless Application RepositoryからBot Defense Connectorをデプロイ
 ===========================
 
 準備中

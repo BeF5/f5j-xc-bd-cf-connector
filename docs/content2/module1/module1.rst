@@ -1,4 +1,4 @@
-F5 Distributed Cloud Console`の設定
+F5 Distributed Cloud Consoleの設定
 ===============================================
 
 準備中

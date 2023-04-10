@@ -41,3 +41,17 @@ F5 Distributed Cloud Consoleの設定
 
 .. image:: images/Application_detail.png
    :scale: 15%
+
+
+
+#.  Amazon Reference Informationを入力します。
+
+
+.. image:: images/Amazon_reference_Information.png
+   :scale: 15%
+
+
+- **ID** : Amazon CloudFrontのDistribution IDを入力します。
+
+
+

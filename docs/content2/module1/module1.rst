@@ -27,7 +27,6 @@ F5 Distributed Cloud Consoleの設定
    :scale: 15%
 
 
- ::
 
 - **Name** : 任意の名前を入力します。
 - **Application Region** : US、EU、Asiaから選択します。

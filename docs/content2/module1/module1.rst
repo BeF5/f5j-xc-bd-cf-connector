@@ -20,10 +20,11 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-#. Application設定を入力します。
+#.  Application設定を入力します。
 
 
 .. image:: images/Metadata.png
    :scale: 15%
+
 
 

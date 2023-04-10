@@ -16,4 +16,4 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/Manage-Application.png
-   :scale 10%
+   :scale: 10%

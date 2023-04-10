@@ -32,3 +32,10 @@ F5 Distributed Cloud Consoleの設定
 - **Application Region** : US、EU、Asiaから選択します。
 - **Connector Type** : Amazon CloudFrontを選択します。
 - **Amazon CloudFront** : Configureをクリックし、詳細項目設定します。
+
+
+#.  詳細項目を設定します。
+
+
+.. image:: images/Appication_detail.png
+   :scale: 15%

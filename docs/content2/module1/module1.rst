@@ -1,8 +1,10 @@
 F5 Distributed Cloud Consoleの設定
 ===============================================
 
-準備中
+本節では、F5 Distributed Cloud ConsoleでのBot Dedenseの設定を紹介します。
 
-.. image:: images/F5-logo.png
+#. F5 Distributed Cloud Consoleのトップページより:guilabel:`Bot Defense`をクリックします。
+
+.. image:: images/Console_Top.png
    :scale: 40%
 

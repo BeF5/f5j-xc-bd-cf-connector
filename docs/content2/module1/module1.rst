@@ -56,3 +56,13 @@ F5 Distributed Cloud Consoleの設定
 
 
 
+
+#.  Protected Endpointsの情報を入力します。
+
+
+.. image:: images/protected_endpoint.png
+   :scale: 15%
+
+
+
+

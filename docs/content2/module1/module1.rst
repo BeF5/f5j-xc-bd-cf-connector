@@ -8,7 +8,7 @@ F5 Distributed Cloud Consoleの設定
 #. F5 Distributed Cloud Consoleのトップページより、 :guilabel:`Bot Defense` をクリックします。
 
 .. image:: images/Console_Top.png
-   :scale: 10%
+   :scale: 15%
 
 
 
@@ -16,4 +16,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/Manage-Application.png
-   :scale: 10%
+   :scale: 15%
+
+
+#.  Application設定を入力

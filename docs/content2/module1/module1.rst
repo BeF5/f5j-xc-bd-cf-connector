@@ -25,3 +25,8 @@ F5 Distributed Cloud Consoleの設定
 
 .. image:: images/Metadata.png
    :scale: 15%
+
+
+        :guilabel:`Name`  任意の名前を入力
+        :guilabel:`Application Region`  US、EU、Asiaから選択
+        :guilabel:`Connector Type`  Amazon CloudFrontを選択

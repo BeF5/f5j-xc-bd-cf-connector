@@ -28,3 +28,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 
+- *Name* : 任意の名前を入力します。
+- *Application Region* : US、EU、Asiaから選択します。
+- *Connector Type* : Amazon CloudFrontを選択します。
+- *Amazon CloudFront* : Configureをクリックし、詳細項目設定します。

@@ -61,7 +61,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/protected_endpoint.png
-   :scale: 15%
+   :scale: 30%
 
 
 

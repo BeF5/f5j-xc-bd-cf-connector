@@ -27,6 +27,6 @@ F5 Distributed Cloud Consoleの設定
    :scale: 15%
 
 
-        :guilabel:`Name`  任意の名前を入力
-        :guilabel:`Application Region`  US、EU、Asiaから選択
-        :guilabel:`Connector Type`  Amazon CloudFrontを選択
+*Name*  任意の名前を入力
+*Application Region*  US、EU、Asiaから選択
+*Connector Type*  Amazon CloudFrontを選択

@@ -10,3 +10,6 @@ F5 Distributed Cloud Consoleの設定
 .. image:: images/Console_Top.png
    :scale: 10%
 
+
+#.  :guilabel:`Manage` > :guilabel:`Applications` より、 :guilabel:`+ Add Application` をクリックします。 
+

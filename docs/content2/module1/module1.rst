@@ -82,5 +82,12 @@ F5 Distributed Cloud Consoleの設定
    :guilabel:`Web Client Java Script Settings` で、Specify JavaScript Insertion Rulesを選択し、Specify JavaScript Insertion RulesでConfigureをクリックします。
 
 .. image:: images/JavaScript_Insertion.png
-   :scale: 15%
+   :scale: 30%
+
+- **Web Client JavaScript Path** : Bot判定が行われるJavaScriptのPathを指定します。Defaultでは、/common.jsになります。他のWebアプリケーションと同じ名前は避けます。セキュリティのためにF5を連想する名前も避けることをお勧めします。
+- **Web Client JavaScript Mode** : Asnyc JS with no Caching、Async JS with Caching、Sync JS with no Caching、Sync JS with Cachingから選択します。※ Async: JavaScriptは読み込まれるとすぐに実行され、ページの読み込みをブロックすることはありません。Sync: JavaScriptが読み込まれ、実行されるまで、ページの読み込みが継続されません。
+
+
+8. JavaScript Insertion Pathsの設定
+
 

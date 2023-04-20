@@ -5,14 +5,14 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-#. F5 Distributed Cloud Consoleのトップページより、 :guilabel:`Bot Defense` をクリックします。
+1. F5 Distributed Cloud Consoleのトップページより、 :guilabel:`Bot Defense` をクリックします。
 
 .. image:: images/console_top2.png
    :scale: 15%
 
 
 
-#.  :guilabel:`Manage` > :guilabel:`Applications` より、 :guilabel:`+ Add Application` をクリックします。 
+2.  :guilabel:`Manage` > :guilabel:`Applications` より、 :guilabel:`+ Add Application` をクリックします。 
 
 
 .. image:: images/Manage-Application.png

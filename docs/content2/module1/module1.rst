@@ -60,7 +60,7 @@ F5 Distributed Cloud Consoleの設定
 6.  Protected Endpointsの情報を入力します。
 
 
-.. image:: images/protected_endpoint.png
+.. image:: images/protected_endpoint2.png
    :scale: 30%
 
 - **Name** : 任意の名前を入力します。
@@ -68,12 +68,19 @@ F5 Distributed Cloud Consoleの設定
 - **Path** : 保護対象のパスを選択します。本ドキュメントではカート追加のパス(/products/add_cart*)を入力します。
 - **Query** : 必要な場合Query Parameterを入力。本ドキュメントでは空白にします。
 - **HTTP Methods** : HTTP MethodをGET(XHR/Fetch)、POST、PUTから選択します。本ドキュメントはカート追加の例になるのでPOSTを選択します。
-- **Endpoint Label** : コンソールからモニターする際のラベリングを設定
+- **Endpoint Label** : コンソールからモニターする際のラベリングを設定します。本ドキュメントでは、Flow LabelをShopping & Gift Cards、Flow LabelをAdd to Cartにします。
 - **Client Type** : Web Client、Mobile Client、Web And Mobile Clientから選択。本ドキュメントではWeb Clientを選択します。
 - **Mitigate** : Continue (リクエストはログだけされてOriginに転送)、Redirect (指定されたページにリダイレクト)、Block (リクエストはブロックし、ブロックページで応答)に設定します。本ドキュメントではBlockで設定します。
 - **Status** : ブロックページで応答するときのレスポンスコードを指定します。
-- **Content/Type** : Content Typeを選択します。
-- **Body** : Blockページをカスタマイズします  
+- **Content Type** : Content Typeを選択します。
+- **Body** : Blockページをカスタマイズします。
+必要事項を設定後、右下の :guilabel:`Apply` ボタンを2回クリックします。
 
 
+7. Web Client JavaScript Settingsの設定
+
+   :guilabel:`Web Client Java Script Settings` で、Specify JavaScript Insertion Rulesを選択し、Specify JavaScript Insertion RulesでConfigureをクリックします。
+
+.. image:: images/JavaScript_Insertion.png
+   :scale: 15%
 

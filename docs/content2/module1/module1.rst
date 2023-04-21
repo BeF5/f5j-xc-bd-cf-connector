@@ -46,6 +46,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 5.  Amazon Reference Informationを入力します。
+
     AWS Configurationは、Apply Distribution Configuration Manually、Select AWS CloudFront Distribution by ID、Select AWS CloudFribt Dustribution by tag matchingから選択できますが、本ドキュメントでは、設定が簡単なSelect CoudFront Distribution by ID を選択し、Configureをクリックします。
 
 
@@ -90,6 +91,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 8. JavaScript Insertion Pathsの設定
+   
    JavaScript Insertion Pathsで、 :guilabel:`+ Add Item` をクリックします。
 
 
@@ -109,7 +111,10 @@ F5 Distributed Cloud Consoleの設定
 必要な事項を設定したら、:guilabel:`Apply` をクリックします。
 
 
+
 9. Mobile Settingsの設定
+
+
    Activate Mobile SDKで、Mobile SDKを利用する場合は、Enable Mobile SDK、利用しない場合は、Disable Mobile SDKを選択します。本ドキュメントでは、Disable Mobile SDKを選択します。
 
 
@@ -117,7 +122,7 @@ F5 Distributed Cloud Consoleの設定
 10. More Optionsにつきまして
 
 .. image:: images/more_options.png
-   :scale: 30%
+   :scale: 50%
 
 
 

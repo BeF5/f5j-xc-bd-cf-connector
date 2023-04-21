@@ -46,6 +46,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 5.  Amazon Reference Informationを入力します。
+    AWS Configurationは、Apply Distribution Configuration Manually、Select AWS CloudFront Distribution by ID、Select AWS CloudFribt Dustribution by tag matchingから選択できますが、本ドキュメントでは、設定が簡単なSelect CoudFront Distribution by ID を選択し、Configureをクリックします。
 
 
 .. image:: images/Amazon_reference_Information.png
@@ -89,5 +90,46 @@ F5 Distributed Cloud Consoleの設定
 
 
 8. JavaScript Insertion Pathsの設定
+   JavaScript Insertion Pathsで、 :guilabel:`+ Add Item` をクリックします。
 
+
+
+.. image:: images/js_insertion1.png
+   :scale: 30%
+
+- **Name** : 任意の名前を設定します。
+- **Domain Matcher** : Any Domain、またはDomain (ドメイン指定)を選択します。本ドキュメントではAny Domainを選択します。
+- **Path** : Prefix(PathのPrefix)、Path(Path名の完全一致)、Glob("*"で複数文字にマッチし、?で一文字にマッチするよう記載可能)を選択します。本ドキュメントでは、Prefixを選択します。
+- **Prefix** : Path Prefixを記述します。
+
+
+必要な事項を設定したら、:guilabel:`Apply` をクリックします。
+例では、/prodcts/listの例を示していますが、:guilabel:`+ Add Item` をクリックして/products/detailのエントリも追加します。
+
+必要な事項を設定したら、:guilabel:`Apply` をクリックします。
+
+
+9. Mobile Settingsの設定
+   Activate Mobile SDKで、Mobile SDKを利用する場合は、Enable Mobile SDK、利用しない場合は、Disable Mobile SDKを選択します。本ドキュメントでは、Disable Mobile SDKを選択します。
+
+
+
+10. More Optionsにつきまして
+
+.. image:: images/more_options.png
+   :scale: 30%
+
+
+
+- **Trusted Client Rules** : Bot Defenseの処理をスキップさせたいクライアントがある場合はここで設定します。
+- **Logs** : Amazon CloudFront ConnectorのLambdaのログのログレベルを設定します。　　- **Header Name For Continue Mitigation Action** : Mitigation ActionをContitnueに設定し、Add Headerの設定をした場合のHeaderの名前
+- **Timeout(ms)** : Bot判定のタイムアウト
+- **Body Sample Size Limit** :　解析のために送信するリクエストボディのサイズの制限
+   
+　
+
+
+
+必要な事項を設定したら、:guilabel:`Apply` をクリックします。
+最後に、:guilabel:`Save and Exit` をクリックします。
 

@@ -147,7 +147,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-.. image:: images/more_options.png
+.. image:: images/download.png
    :scale: 50%
 次の章で説明するAmazon CloudFrontに設定を適用するためのjsonファイルとインストーラーをダウンロードします。
 

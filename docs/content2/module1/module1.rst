@@ -47,6 +47,7 @@ F5 Distributed Cloud Consoleの設定
 
 5.  Amazon Reference Informationを入力します。
 
+
     AWS Configurationは、Apply Distribution Configuration Manually、Select AWS CloudFront Distribution by ID、Select AWS CloudFribt Dustribution by tag matchingから選択できますが、本ドキュメントでは、設定が簡単なSelect CoudFront Distribution by ID を選択し、Configureをクリックします。
 
 
@@ -81,6 +82,7 @@ F5 Distributed Cloud Consoleの設定
 
 7. Web Client JavaScript Settingsの設定
 
+
    :guilabel:`Web Client Java Script Settings` で、Specify JavaScript Insertion Rulesを選択し、Specify JavaScript Insertion RulesでConfigureをクリックします。
 
 .. image:: images/JavaScript_Insertion.png
@@ -92,6 +94,7 @@ F5 Distributed Cloud Consoleの設定
 
 8. JavaScript Insertion Pathsの設定
    
+
    JavaScript Insertion Pathsで、 :guilabel:`+ Add Item` をクリックします。
 
 
@@ -137,4 +140,19 @@ F5 Distributed Cloud Consoleの設定
 
 必要な事項を設定したら、:guilabel:`Apply` をクリックします。
 最後に、:guilabel:`Save and Exit` をクリックします。
+
+
+
+11. 設定を適用するためのconfigのjsonファイルとインストーラーのダウンロード
+
+
+
+.. image:: images/more_options.png
+   :scale: 50%
+次の章で説明するAmazon CloudFrontに設定を適用するためのjsonファイルとインストーラーをダウンロードします。
+
+
+   
+|Configファイル名: <App Name>.json
+|Installerファイル名: f5tool
 

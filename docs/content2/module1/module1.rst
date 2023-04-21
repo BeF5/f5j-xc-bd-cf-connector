@@ -152,7 +152,8 @@ F5 Distributed Cloud Consoleの設定
 次の章で説明するAmazon CloudFrontに設定を適用するためのjsonファイルとインストーラーをダウンロードします。
 
 
-   
-|Configファイル名: <App Name>.json
-|Installerファイル名: f5tool
+
+
+| Configファイル名: <App Name>.json
+| Installerファイル名: f5tool
 

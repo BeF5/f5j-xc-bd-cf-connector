@@ -40,7 +40,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/Application_detail.png
-   :scale: 15%
+   :scale: 30%
 
 
 
@@ -52,7 +52,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/Amazon_reference_Information.png
-   :scale: 15%
+   :scale: 30%
 
 
 - **ID** : Amazon CloudFrontのDistribution IDを入力します。
@@ -86,7 +86,7 @@ F5 Distributed Cloud Consoleの設定
    :guilabel:`Web Client Java Script Settings` で、Specify JavaScript Insertion Rulesを選択し、Specify JavaScript Insertion RulesでConfigureをクリックします。
 
 .. image:: images/JavaScript_Insertion.png
-   :scale: 30%
+   :scale: 40%
 
 - **Web Client JavaScript Path** : Bot判定が行われるJavaScriptのPathを指定します。Defaultでは、/common.jsになります。他のWebアプリケーションと同じ名前は避けます。セキュリティのためにF5を連想する名前も避けることをお勧めします。
 - **Web Client JavaScript Mode** : Asnyc JS with no Caching、Async JS with Caching、Sync JS with no Caching、Sync JS with Cachingから選択します。※ Async: JavaScriptは読み込まれるとすぐに実行され、ページの読み込みをブロックすることはありません。Sync: JavaScriptが読み込まれ、実行されるまで、ページの読み込みが継続されません。
@@ -100,7 +100,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/js_insertion1.png
-   :scale: 30%
+   :scale: 40%
 
 - **Name** : 任意の名前を設定します。
 - **Domain Matcher** : Any Domain、またはDomain (ドメイン指定)を選択します。本ドキュメントではAny Domainを選択します。
@@ -125,7 +125,7 @@ F5 Distributed Cloud Consoleの設定
 10. More Optionsにつきまして
 
 .. image:: images/more_options.png
-   :scale: 50%
+   :scale: 70%
 
 
 
@@ -148,7 +148,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/download.png
-   :scale: 50%
+   :scale: 30%
 次の章で説明するAmazon CloudFrontに設定を適用するためのConfigのjsonファイルとインストーラーをダウンロードします。
 
 

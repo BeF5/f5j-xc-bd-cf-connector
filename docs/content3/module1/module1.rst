@@ -13,7 +13,7 @@ Serverless Application RepositoryからBot Defense Connectorをデプロイ
 
 
 .. figure:: images/serverless_application_repository.png
-   :scale: 30%
+   :scale: 20%
 
 
 
@@ -21,7 +21,7 @@ Serverless Application RepositoryからBot Defense Connectorをデプロイ
 
 
 .. figure:: images/lambda_deploy.png
-   :scale: 300%
+   :scale: 20%
 
 
 
@@ -29,4 +29,4 @@ Serverless Application RepositoryからBot Defense Connectorをデプロイ
 
 
 .. figure:: images/lambda.png
-   :scale: 30%
+   :scale: 20%

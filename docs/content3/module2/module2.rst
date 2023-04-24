@@ -23,12 +23,12 @@ AWS CloudShellよりAmazon CloudFrontへ設定を適用
 
 
 .. figure:: images/CloudShell_3.png
-   :scale: 50%
+   :scale: 20%
 
 
 
 .. figure:: images/CloudShell_4.png
-   :scale: 50%
+   :scale: 20%
 
 
 3. インストーラーの実行
@@ -39,10 +39,11 @@ AWS CloudShellよりAmazon CloudFrontへ設定を適用
  　| 以下のコマンドにてCloudFronに設定が適用されます。
 
 
-   ::
+   
         bash f5tool --lambda LATEST --install <設定内容が記載されたjsonファイル>
 
 
-.. fignre:: images/CloudShell_5.png 
+.. figure:: images/CloudShell_5.png
+   :scale: 20%
 
 

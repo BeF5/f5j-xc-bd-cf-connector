@@ -92,7 +92,7 @@ F5 Distributed Cloud Consoleの設定
 - **Web Client JavaScript Mode** : Asnyc JS with no Caching、Async JS with Caching、Sync JS with no Caching、Sync JS with Cachingから選択します。※ Async: JavaScriptは読み込まれるとすぐに実行され、ページの読み込みをブロックすることはありません。Sync: JavaScriptが読み込まれ、実行されるまで、ページの読み込みが継続されません。
 
 
-8.  :guilabel:'`JavaScript Insertion Paths` の設定
+8.  :guilabel:`JavaScript Insertion Paths` の設定
    
 
    :guilabel:`JavaScript Insertion Paths` で、 :guilabel:`+ Add Item` をクリックします。

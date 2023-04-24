@@ -13,15 +13,15 @@ Serverless Application RepositoryからBot Defense Connectorをデプロイ
 
 
 .. figure:: images/serverless_application_repository.png
-   :scale: 50%
+   :scale: 30%
 
 
 
-3.  :guilabel:`AWS Lambda` コンソールの画面に遷移するので、:guilabel:`アプリケーションの設定` > ;guilabel:`アプリケーション名` で任意の名前を入力、:guilabel:`デプロイ` をクリックします。
+3.  :guilabel:`AWS Lambda` コンソールの画面に遷移するので、:guilabel:`アプリケーションの設定` > :guilabel:`アプリケーション名` で任意の名前を入力、:guilabel:`デプロイ` をクリックします。
 
 
 .. figure:: images/lambda_deploy.png
-   :scale: 50%
+   :scale: 300%
 
 
 
@@ -29,4 +29,4 @@ Serverless Application RepositoryからBot Defense Connectorをデプロイ
 
 
 .. figure:: images/lambda.png
-   :scale: 50%
+   :scale: 30%

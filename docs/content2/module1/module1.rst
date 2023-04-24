@@ -20,7 +20,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-3.  Application設定を入力します。
+3.  :guilabel:`Protected Application` 設定を入力します。
 
 
 .. image:: images/Metadata.png
@@ -45,7 +45,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-5.  Amazon Reference Informationを入力します。
+5.   :guilabel:`Amazon Reference Information` を入力します。
 
 
     AWS Configurationは、Apply Distribution Configuration Manually、Select AWS CloudFront Distribution by ID、Select AWS CloudFribt Dustribution by tag matchingから選択できますが、本ドキュメントでは、設定が簡単なSelect CoudFront Distribution by ID を選択し、Configureをクリックします。
@@ -60,7 +60,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-6.  Protected Endpointsの情報を入力します。
+6.   :guilabel:`Protected Endpoints` の情報を入力します。
 
 
 .. image:: images/protected_endpoint2.png
@@ -80,7 +80,7 @@ F5 Distributed Cloud Consoleの設定
 必要事項を設定後、右下の :guilabel:`Apply` ボタンを2回クリックします。
 
 
-7. Web Client JavaScript Settingsの設定
+7.  :guilabel:`Web Client Java Script Settings` の設定
 
 
    :guilabel:`Web Client Java Script Settings` で、Specify JavaScript Insertion Rulesを選択し、Specify JavaScript Insertion RulesでConfigureをクリックします。
@@ -92,10 +92,10 @@ F5 Distributed Cloud Consoleの設定
 - **Web Client JavaScript Mode** : Asnyc JS with no Caching、Async JS with Caching、Sync JS with no Caching、Sync JS with Cachingから選択します。※ Async: JavaScriptは読み込まれるとすぐに実行され、ページの読み込みをブロックすることはありません。Sync: JavaScriptが読み込まれ、実行されるまで、ページの読み込みが継続されません。
 
 
-8. JavaScript Insertion Pathsの設定
+8.  :guilabel:'`JavaScript Insertion Paths` の設定
    
 
-   JavaScript Insertion Pathsで、 :guilabel:`+ Add Item` をクリックします。
+   :guilabel:`JavaScript Insertion Paths` で、 :guilabel:`+ Add Item` をクリックします。
 
 
 
@@ -115,14 +115,14 @@ F5 Distributed Cloud Consoleの設定
 
 
 
-9. Mobile Settingsの設定
+9.  :guilabel:`Mobile Settings` の設定
 
 
    Activate Mobile SDKで、Mobile SDKを利用する場合は、Enable Mobile SDK、利用しない場合は、Disable Mobile SDKを選択します。本ドキュメントでは、Disable Mobile SDKを選択します。
 
 
 
-10. More Optionsにつきまして
+10.  :guilabel:`More Options` につきまして
 
 .. image:: images/more_options.png
    :scale: 70%
@@ -148,7 +148,7 @@ F5 Distributed Cloud Consoleの設定
 
 
 .. image:: images/download.png
-   :scale: 30%
+   :scale: 20%
 次の章で説明するAmazon CloudFrontに設定を適用するためのConfigのjsonファイルとインストーラーをダウンロードします。
 
 

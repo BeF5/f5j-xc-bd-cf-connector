@@ -1,4 +1,4 @@
-Amazon CloudFrontの設定につきまして補足
+Amazon CloudFrontの設定について補足
 ========================================
 
 F5 Distributed Cloud Bot Defense for Amazon CloudFrontを利用するにあたり、Amazon CloudFront Distributionのビヘイビアの設定につきまして補足します。

@@ -11,7 +11,7 @@ Selenium IDEによるテスト
 1. Selenium IDEをChromeの拡張機能として追加します。
 
 .. figure:: images/seleniumide_1.png
-   :scale: 30%
+   :scale: 25%
 
 
 .. figure:: images/seleniumide_2.png
@@ -21,19 +21,19 @@ Selenium IDEによるテスト
 2. Chromeの拡張機能から、Selenium IDEを起動します。
 
 .. figure:: images/seleniumide_3.png
-   :scale: 30%
+   :scale: 20%
 
 
 3.  :guilabel:`Create new project` より、Webアプリケーションの操作を記録します。
 
 .. figure:: images/seleniumide_4.png
-   :scale: 30%
+   :scale: 25%
 
 
 4.  任意のProject名を入力します。
 
 .. figure:: images/seleniumide_5.png
-   :scale: 30%
+   :scale: 50%
 
 
 5.  :guilabel:`REC` ボタンをクリックした後、操作を記録するWebアプリケーションのURLを入力し、:guilabel:`START RECORDING` をクリックし、カート追加の操作を記録します。
@@ -56,7 +56,7 @@ Selenium IDEによるテスト
 
 
 .. figure:: images/seleniumide_9.png
-   :scale: 30%
+   :scale: 50%
 
 
 .. figure:: images/seleniumide_10.png

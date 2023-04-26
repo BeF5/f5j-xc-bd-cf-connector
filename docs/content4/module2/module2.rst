@@ -20,7 +20,7 @@ F5 Distributed Cloud Consoleでの確認
    :scale: 15%
 
 
-3. 画面をスクロールします。:guilabel:`Top Endpoint Labels` や:guilabel:`Top Attacked Endpoints` の欄で、先に設定した、CategoryやEndpoint LabelでBot Trafficと検出したことがわかります。
+3. 画面をスクロールします。:guilabel:`Top Endpoint Labels` や :guilabel:`Top Attacked Endpoints` の欄で、先に設定した、CategoryやEndpoint LabelでBot Trafficと検出したことがわかります。
 
 
 

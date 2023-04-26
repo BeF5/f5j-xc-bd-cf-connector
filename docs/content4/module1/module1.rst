@@ -73,7 +73,8 @@ Selenium IDEによるテスト
    :scale: 30%
 
 
-
+.. figure:: images/seleniumide_13.png
+   :scale: 30%
 
 
 

@@ -36,6 +36,13 @@ F5 Distributed Cloud Consoleでの確認
    :scale: 15%
 
 
+5.  :guilabel:`Traffic Analyzer` より、検出したトラフィックの詳細(IP Address, ASN, Host Header, Path, User Agent, Method, Time, Automation Type等)を確認します。ここでAutomation Type がThreat Intelligenceとなっており、Bot Defenseのルールにより検出できたことが確認できます。
+
+
+.. figure:: images/console_4.png
+   :scale: 15%
+ 
+
 
 
 

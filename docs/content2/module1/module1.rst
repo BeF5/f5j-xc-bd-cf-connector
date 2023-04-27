@@ -48,7 +48,7 @@ F5 Distributed Cloud Consoleの設定
 5.   :guilabel:`Amazon Reference Information` を入力します。
 
 
-    AWS Configurationは、Apply Distribution Configuration Manually、Select AWS CloudFront Distribution by ID、Select AWS CloudFribt Dustribution by tag matchingから選択できますが、本ドキュメントでは、設定が簡単なSelect CoudFront Distribution by ID を選択し、Configureをクリックします。
+   :guilabel:`AWS Configuration` は、Apply Distribution Configuration Manually、Select AWS CloudFront Distribution by ID、Select AWS CloudFrontt Dustribution by tag matchingから選択できますが、本ドキュメントでは、設定が簡単なSelect CoudFront Distribution by ID を選択し、Configureをクリックします。
 
 
 .. image:: images/Amazon_reference_Information.png
@@ -130,7 +130,8 @@ F5 Distributed Cloud Consoleの設定
 
 
 - **Trusted Client Rules** : Bot Defenseの処理をスキップさせたいクライアントがある場合はここで設定します。
-- **Logs** : Amazon CloudFront ConnectorのLambdaのログのログレベルを設定します。　　- **Header Name For Continue Mitigation Action** : Mitigation ActionをContitnueに設定し、Add Headerの設定をした場合のHeaderの名前
+- **Logs** : Amazon CloudFront ConnectorのLambdaのログのログレベルを設定します。　　
+- **Header Name For Continue Mitigation Action** : Mitigation ActionをContitnueに設定し、Add Headerの設定をした場合のHeaderの名前
 - **Timeout(ms)** : Bot判定のタイムアウト
 - **Body Sample Size Limit** :　解析のために送信するリクエストボディのサイズの制限
    

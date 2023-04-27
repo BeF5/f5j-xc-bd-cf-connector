@@ -3,7 +3,7 @@
 
 F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront セットアップガイド 
 ==============================================
-最終更新日: 2023年3月2日
+最終更新日: 2023年4月27日
 
 本ドキュメントでは、F5 Distributed Cloud Bot Defense Connector for Amazon CloudFrontの設定方法を紹介します。
 

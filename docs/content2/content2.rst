@@ -1,7 +1,7 @@
-F5 Distributed Cloud Bot Defenseの設定
+XC Bot Defenseの設定
 ================================================
 
-本章では、F5 Distributed Cloud Bot Defenseの設定について紹介します。
+本章では、XC Bot Defenseの設定について紹介します。
 
 
 .. toctree::

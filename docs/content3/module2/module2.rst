@@ -14,7 +14,7 @@ AWS CloudShellよりAmazon CloudFrontへ設定を適用
 2. インストーラー(f5tool)とJSONファイルのアップロード
 
 
-   F5 Distributed Cloud Consoleよりダウンロードした、インストーラー(f5tool)と設定内容が記載されたJSONファイルをアップロードします。
+   XC Consoleよりダウンロードした、インストーラー(f5tool)と設定内容が記載されたJSONファイルをアップロードします。
 
 
 .. figure:: images/CloudShell_2.png

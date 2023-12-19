@@ -1,10 +1,10 @@
-F5 Distributed Cloud Consoleでの確認
+XC Consoleでの確認
 ===============================================
 
-本節ではF5 Distributed Cloud ConsoleでのBot Trafficの確認方法を説明します。
+本節ではXC ConsoleでのBot Trafficの確認方法を説明します。
 
 
-1. F5 Distributed Cloud Consoleのトップページより、:guilabel:`Bot Defense` をクリックします。
+1. XC Consoleのトップページより、:guilabel:`Bot Defense` をクリックします。
 
   
   .. figure:: images/console_top2.png

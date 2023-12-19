@@ -1,7 +1,7 @@
 Serverless Application RepositoryからBot Defense Connectorをデプロイ
 ===========================
 
-本節では、AWSマネージメントコンソールからF5 Distributed Cloud Bot DefenseのAmazon CloudFront Connectorをデプロイする方法を紹介します。
+本節では、AWSマネージメントコンソールからXC Bot DefenseのAmazon CloudFront Connectorをデプロイする方法を紹介します。
 
 
 1. AWSマネージメントコンソールより、:guilabel:`Serverless Application Repository` を選択します。
@@ -25,7 +25,7 @@ Serverless Application RepositoryからBot Defense Connectorをデプロイ
 
 
 
-4.  F5BotDefense のアプリケーションのデプロイが完了したことを確認します。
+4.  XC Bot Defense のアプリケーションのデプロイが完了したことを確認します。
 
 
 .. figure:: images/lambda.png

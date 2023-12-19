@@ -1,11 +1,11 @@
-F5 Distributed Cloud Consoleの設定
+XC Consoleの設定
 ===============================================
 
-本節では、F5 Distributed Cloud ConsoleでのBot Dedenseの設定を紹介します。
+本節では、XC ConsoleでのBot Dedenseの設定を紹介します。
 
 
 
-1. F5 Distributed Cloud Consoleのトップページより、 :guilabel:`Bot Defense` をクリックします。
+1. XC Consoleのトップページより、 :guilabel:`Bot Defense` をクリックします。
 
 .. image:: images/console_top2.png
    :scale: 15%
